@@ -45,7 +45,7 @@ npm run start
 ( για την εκκίνηση του server)
 
 ## Στήσιμο του front-end
-Ενώ είμαστε στο directory του back-end σε ένα command-line γράφουμε :
+Ενώ είμαστε στο directory του front-end σε ένα command-line γράφουμε :
 ```
 npm install
 ```
