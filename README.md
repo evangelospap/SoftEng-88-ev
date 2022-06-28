@@ -66,10 +66,10 @@ npm install
 ```
 npm link
 ```
-( για να χρησιμοποιείται globally η εφαρμογή ev_group88)
+( για να χρησιμοποιείται globally η εφαρμογή ev_group88, type ev_group88 -h for help info)
 
 > Το **Testing** γίνεται για το cli είτε το back-end με την εντολή **npm test** στο αντίστοιχο directory
 
  **Χρήση:** 
- Απο οποιοδήποτε directory σε τερματικό μπορούμε πλέον να χρησιμοποιήσουμε την εφαρμογή **energy_group88**
+ Απο οποιοδήποτε directory σε τερματικό μπορούμε πλέον να χρησιμοποιήσουμε την εφαρμογή **ev_group88**
  
