@@ -20,7 +20,7 @@ https://github.com/evangelospap/SoftEng-88-ev/tree/master/back-end/SoftEngDatase
 
 Ένω είμαστε στο directory με τα αρχεία και η βάση δεδομένων είναι ανοιχτή, τρέχουμε :
 ```
-cd from local path -->> to path-to-back-end/back-end
+cd from local path -->> path-to-back-end/back-end
 
 και εκτελούμε:
 
