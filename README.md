@@ -51,7 +51,7 @@ npm install
 ```
 (για τα dependencies απο modules)
 ```
-npm start 
+npm run start 
 ```
 ( για την εκκίνηση της react)
 
